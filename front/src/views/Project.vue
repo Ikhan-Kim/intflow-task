@@ -65,7 +65,7 @@ export default {
           'times': 0,
           'activity': 0,
           'feed': 0,
-          drinking: 0,
+          'drinking': 0,
         }
       },
     }
